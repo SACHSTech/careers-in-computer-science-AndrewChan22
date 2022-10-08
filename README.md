@@ -20,13 +20,14 @@ To become a software developer, you typically need a bachelor's degree in softwa
 - Database knowledge
 - Source control
 - Testing procedures
-
 #### Non-technical Skills
 - Problem-solving skills
 - Critical thinking
 - Teamwork/Collaboration skills
 - Organizational and time management skills
 - Attention to detail
+### Salary Range for a Software Developer
+The average salary for a software developer in Canada is approximately $80,000. On the lower end, one can expect a salary of $57,000, and on the higher end, one can expect a salary of $110,000.
 
 
 
