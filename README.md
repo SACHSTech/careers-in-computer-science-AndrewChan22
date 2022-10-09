@@ -40,7 +40,7 @@ The average salary for a software developer in Canada is approximately $80,000. 
 <img src="https://www.eecg.utoronto.ca/static/images/fase.png" width="714" height="160">
 
 The University of Toronto is regarded as the best engineering school in Canada. Becoming a computer engineer opens many doors to new opportunities, which include becoming a software developer. 
-### Academic Requirements
+### Academic/Entrance Requirements
 - Ontario High School Diploma
 - Advanced Functions (MHF4U)
 - Calculus & Vectors (MCV4U)
