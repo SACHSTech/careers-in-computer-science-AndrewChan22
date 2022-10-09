@@ -36,10 +36,10 @@ To become a software developer, you typically need a bachelor's degree in softwa
 The average salary for a software developer in Canada is approximately $80,000. On the lower end, one can expect a salary of $57,000, and on the higher end, one can expect a salary of $110,000.
 ## Standard Education
 ### University of Toronto: [Computer Engineering](https://future.utoronto.ca/undergraduate-programs/computer-engineering)
-The University of Toronto is regarded as the best engineering school in Canada. Becoming a computer engineer opens many doors to new opportunities, which include becoming a software developer. 
 
 <img src="https://www.eecg.utoronto.ca/static/images/fase.png" width="714" height="160">
 
+The University of Toronto is regarded as the best engineering school in Canada. Becoming a computer engineer opens many doors to new opportunities, which include becoming a software developer. 
 ### Academic Requirements
 - Ontario High School Diploma
 - Advanced Functions (MHF4U)
@@ -74,7 +74,7 @@ There are many ways that could attain valuable experience that is not through tr
 - Start a new project: Starting your own project related to computer engineering/software developing can help you to gain valuable skills, as well as learn to problem solve and critically think.
 ### Real Jobs
 
-<img src="https://miro.medium.com/max/1200/0*MEaEFP63knJ-pPuC" width="600" height="480">
+<img src="https://miro.medium.com/max/1200/0*MEaEFP63knJ-pPuC" width="400" height="320">
 
 You have now completed a degree in computer engineering, and you are looking to become a software developer. So, where do you start?
 
