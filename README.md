@@ -48,4 +48,10 @@ The average salary for a software developer in Canada is approximately $80,000. 
 | CIV100H1: Mechanics | ECE110H1: Electrical Fundamentals |
 | MAT186H1: Calculus I | MAT187H1: Calculus II |
 | MAT188H1: Linear Algebra | MIE100H1: Dynamics |
+### Diploma Requirements
+- Four years of course work
+- 600 hours of practical work experience
+### Length of Degree
+A computer engineering degree at the University of Toronto takes four years to complete.
+
 
