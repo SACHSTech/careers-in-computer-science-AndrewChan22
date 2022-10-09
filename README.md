@@ -92,9 +92,11 @@ You have now completed a degree in computer engineering, and you are looking to 
 - City
   - Barrie, Ontario
  - Additional skills or requirements
-  - Functional programming and object-oriented design and implementation
-  - Experience in ERP (Microsoft Dynamics NAV) preferred
-  - Powershell, Python and F# programming languages are assets
+    - Functional programming and object-oriented design and implementation
+    - Experience in ERP (Microsoft Dynamics NAV) preferred
+    - Powershell, Python and F# programming languages are assets
+    - Experience with .Net and SQL Server
+    - BSc in Computing, College Computer Programmer or equivalent diploma
   
 **Intermediate Full-Stack Software Developer (Remote): Scrawlr Development Inc.**
 - Job description
@@ -104,6 +106,9 @@ You have now completed a degree in computer engineering, and you are looking to 
 - Additional skills or requirements
   - Three (3) years of work experience in a development agency or company development environments
   - One (1) year of experience working on Vue.js framework/similar or Laravel framework/similar
+  - Experience designing RESTful API and microservices architecture
+  - Good understanding Postgres (SQL) and Redis (In-memory DB), or similar
+  - Solid experience with debugging and identifying performance bottlenecks
 
 **Senior Level Software Developer (Remote): Franklin Templeton Investments Corp.**
 - Job description
@@ -118,6 +123,7 @@ You have now completed a degree in computer engineering, and you are looking to 
   - Database software
   - File management software
   - Proficient with various programming langauges such as Python, Java, and JavaScript.
+  - Microsoft Office and Windows
 ## Works Cited
 Faculty of Applied Science and Engineering. “Undergraduate Program in Computer Engineering (AECPEBASC).” UNDERGRADUATE PROGRAM IN COMPUTER ENGINEERING (AECPEBASC) | Faculty of Applied Science and Engineering, 2022, engineering.calendar.utoronto.ca/undergraduate-program-computer-engineering-aecpebasc. 
 
