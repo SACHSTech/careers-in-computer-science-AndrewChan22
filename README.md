@@ -72,7 +72,7 @@ There are many ways that could attain valuable experience that is not through tr
 - Research Projects: Participate in research projects related to computer engineering/software developing
 
 - Start a new project: Starting your own project related to computer engineering/software developing can help you to gain valuable skills, as well as learn to problem solve and critically think.
-### Real Jobs
+## Real Jobs
 
 <img src="https://miro.medium.com/max/1200/0*MEaEFP63knJ-pPuC" width="400" height="320">
 
