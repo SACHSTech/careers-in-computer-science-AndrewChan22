@@ -71,9 +71,9 @@ There are many ways that could attain valuable experience that is not through tr
 - Internships: [**Professional Experience Year Co-op (PEY Co-op)**](https://engineeringcareers.utoronto.ca/work-experience-programs/professional-experience-year-co-op-program-pey-co-op)
   - PEY-Co-op is a work integrated learning program that is offered by the University of Toronto. It is available to undergraduate engineering students and allows students to gain paid work experience. Students apply their skills in legitimate engineering positions, while building up their professional networks. 
   
-- Research Projects: Participate in research projects related to computer engineering/software developing
+- Research Projects: Participate in research projects related to computer engineering/software development
 
-- Start a new project: Starting your own project related to computer engineering/software developing can help you to gain valuable skills, as well as learn to problem solve and critically think.
+- Start a new project: Starting a computer engineering or software development project can help you gain valuable technical skills. Independent projects also allow you to work on problem-solving and critical-thinking skills. 
 ## Real Jobs
 
 <img src="https://miro.medium.com/max/1200/0*MEaEFP63knJ-pPuC" width="400" height="320">
