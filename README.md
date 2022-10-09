@@ -4,7 +4,7 @@
 ### What is a Software Developer?
 - Software developers are the masterminds behind computer programs. They use their programming and design knowledge to build solutions for problems using software.
 Typically, they build software after receving specifications from a client. They will then develop, test, and deploy that software based on the client's requests. Software exists everywhere, and software developers are the ones designing it. 
-### What are the Duties and Responsibilites?
+### Duties and Responsibilites
 - Troubleshoot and debug existing software
 - Produce clean, efficient code based on client specifications
 - Gather and evaluate user feedback
@@ -28,7 +28,24 @@ To become a software developer, you typically need a bachelor's degree in softwa
 - Attention to detail
 ### Salary Range for a Software Developer
 The average salary for a software developer in Canada is approximately $80,000. On the lower end, one can expect a salary of $57,000, and on the higher end, one can expect a salary of $110,000.
-
-
-
+## Standard Education
+### University of Toronto: Computer Engineering
+### Academic Requirements
+- Ontario High School Diploma
+- Advanced Functions (MHF4U)
+- Calculus & Vectors (MCV4U)
+- Chemistry (SCH4U)
+- English (ENG4U)
+- Physics (SPH4U)
+- One additional U or M course
+- Supplemental Application Required
+### First Year Courses
+| Fall Session - Year 1 | Winter Session - Year 1 |
+| --------------------- | ----------------------- |
+| APS100H1: Orientation to Engineering | APS105H1: Computer Fundamentals |
+| APS110H1: Engineering Chemistry and Materials Science | APS112H1: Engineering Strategies & Practice II |
+| APS111H1: Engineering Strategies & Practice I | ECE191H1: Introduction to Electrical and Computer Engineering |
+| CIV100H1: Mechanics | ECE110H1: Electrical Fundamentals |
+| MAT186H1: Calculus I | MAT187H1: Calculus II |
+| MAT188H1: Linear Algebra | MIE100H1: Dynamics |
 
