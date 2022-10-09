@@ -59,7 +59,7 @@ The University of Toronto is regarded as the best engineering school in Canada. 
 | MAT186H1: Calculus I | MAT187H1: Calculus II |
 | MAT188H1: Linear Algebra | MIE100H1: Dynamics |
 
-During your first year in computer engineering, you will study many different things, ranging from math and digital systems to software, electronics, communication systems, and computer architecture. These different areas of study will allow you to have a strong foundation. This will allow you to specialize into two of these six categories in your upper years. These 12 courses allow for a smooth transition into engineering studies, as these courses focus on building upon math, chemistry, and physics knowledge. 
+During your first year in computer engineering, you will study many different things, ranging from math and digital systems to software, electronics, communication systems, and computer architecture. These different areas of study will allow you to have a strong foundation. This strong foundation will allow you to specialize into two of these six categories in your upper years. These 12 courses allow for a smooth transition into engineering studies, as these courses focus on expanding your math, chemistry, and physics knowledge. 
 ### Diploma Requirements
 - Four years of course work
 - 600 hours of practical work experience
@@ -75,6 +75,9 @@ There are many ways that could attain valuable experience that is not through tr
 
 - Start a new project: Starting a computer engineering or software development project can help you gain valuable technical skills. Independent projects also allow you to work on problem-solving and critical-thinking skills. 
 ## Real Jobs
+
+- Join organizations that align with your career goals: Joining clubs, and different organizations allow you to build your professional network.
+  - Joining organizations that align with your career goals helps you to meet like-minded individuals. It will expose you to new experiences and it gives you the opportunity to improve your leadership and collaboration skills.
 
 <img src="https://miro.medium.com/max/1200/0*MEaEFP63knJ-pPuC" width="400" height="320">
 
