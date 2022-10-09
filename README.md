@@ -53,5 +53,16 @@ The average salary for a software developer in Canada is approximately $80,000. 
 - 600 hours of practical work experience
 ### Length of Degree
 A computer engineering degree at the University of Toronto takes four years to complete.
+### Experiential Learning
+There are many ways that could attain valuable experience that is not through traditional school.
+
+- Internships: **Professional Experience Year Co-op (PEY Co-op)**
+
+  - PEY-Co-op is a work integrated learning program that is offered by the University of Toronto. It is available to undergraduate engineering students and allows students to gain paid work experience. Students apply their skills in legitimate engineering positions, while building up their professional networks. 
+
+- Research Projects: Participate in research projects related to computer engineering
+- Start a new project: Starting your own project related to computer engineering can help you to gain valuable skills, as well as learn to problem solve and critically think.
+
+
 
 
