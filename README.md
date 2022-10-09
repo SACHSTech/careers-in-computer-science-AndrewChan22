@@ -59,7 +59,7 @@ The University of Toronto is regarded as the best engineering school in Canada. 
 | MAT186H1: Calculus I | MAT187H1: Calculus II |
 | MAT188H1: Linear Algebra | MIE100H1: Dynamics |
 
-During your first year in computer engineering, you will study many different things, ranging from math and digital systems to software, electronics, communication systems, and computer architecture. 
+During your first year in computer engineering, you will study many different things, ranging from math and digital systems to software, electronics, communication systems, and computer architecture. These different areas of study will allow you to have a strong foundation. This will allow you to specialize into two of these six categories in your upper years. These 12 courses allow for a smooth transition into engineering studies, as these courses focus on building upon math, chemistry, and physics knowledge. 
 ### Diploma Requirements
 - Four years of course work
 - 600 hours of practical work experience
