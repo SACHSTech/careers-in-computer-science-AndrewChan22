@@ -58,6 +58,8 @@ The University of Toronto is regarded as the best engineering school in Canada. 
 | CIV100H1: Mechanics | ECE110H1: Electrical Fundamentals |
 | MAT186H1: Calculus I | MAT187H1: Calculus II |
 | MAT188H1: Linear Algebra | MIE100H1: Dynamics |
+
+During your first year in computer engineering, you will study many different things, ranging from math and digital systems to software, electronics, communication systems, and computer architecture. 
 ### Diploma Requirements
 - Four years of course work
 - 600 hours of practical work experience
