@@ -97,10 +97,10 @@ You have now completed a degree in computer engineering, and you are looking to 
   - Three (3) years of work experience in a development agency or company development environments
   - One (1) year of experience working on Vue.js framework/similar or Laravel framework/similar
 
-**Senior Level Software Developer (Remote): Franklin Templeton Investments Corp.
+**Senior Level Software Developer (Remote): Franklin Templeton Investments Corp.**
 - Job description
   - You will be writing, modifying, integrating, and testing software code for e-commerce. You will be responsible for maintaining existing computer programs, preparing reports, and identifying and solving technical problems.
-  - Additional tasks:
+  - Additional tasks
     - Assist in the collection and documentation of user's requirements
     - Research and evaluate a variety of software products
 - City
