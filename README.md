@@ -128,31 +128,31 @@ You have now completed a degree in computer engineering, and you are looking to 
   - Proficient with various programming langauges such as Python, Java, and JavaScript.
   - Microsoft Office and Windows
 ## Works Cited
-Faculty of Applied Science and Engineering. “Undergraduate Program in Computer Engineering (AECPEBASC).” UNDERGRADUATE PROGRAM IN COMPUTER ENGINEERING (AECPEBASC) | Faculty of Applied Science and Engineering, 2022, engineering.calendar.utoronto.ca/undergraduate-program-computer-engineering-aecpebasc. 
+Faculty of Applied Science and Engineering. “Undergraduate Program in Computer Engineering (AECPEBASC).” UNDERGRADUATE PROGRAM IN COMPUTER ENGINEERING (AECPEBASC) | Faculty of Applied Science and Engineering, 2022, www.engineering.calendar.utoronto.ca/undergraduate-program-computer-engineering-aecpebasc. 
 
-AltumCode. “MacBook Pro.” Unsplash, 28 Mar. 2018, unsplash.com/photos/dMUt0X3f59Q. 
+AltumCode. “MacBook Pro.” Unsplash, 28 Mar. 2018, www.unsplash.com/photos/dMUt0X3f59Q. 
 
 ComputerScience.org Staff. “Application Software Developer Career Overview.” Code a New Career | ComputerScience.org, 9 Sept. 2022, www.computerscience.org/careers/software-developer/. 
 
 DeVry University. “What Does a Software Developer Do?” Devry.edu, 6 Dec. 2021, www.devry.edu/online-programs/area-of-study/technology/what-does-a-software-developer-do.html. 
 
-Engineering Career Centre. “Professional Experience Year Co-Op (Pey Co-Op).” Engineering Career Centre, 2022, engineeringcareers.utoronto.ca/work-experience-programs/professional-experience-year-co-op-program-pey-co-op/. 
+Engineering Career Centre. “Professional Experience Year Co-Op (Pey Co-Op).” Engineering Career Centre, 2022, www.engineeringcareers.utoronto.ca/work-experience-programs/professional-experience-year-co-op-program-pey-co-op/. 
 
-“Entry Level Software Developer Jobs.” Caranci Consulting Corp., 2022, ca.indeed.com/Entry-Level-Software-Developer-jobs. 
+“Entry Level Software Developer Jobs.” Caranci Consulting Corp., 2022, www.ca.indeed.com/Entry-Level-Software-Developer-jobs. 
 
 “Flexible Senior Software Developer Jobs | Indeed.com.” Senior Software Developer, 2022, www.indeed.com/q-Senior-Software-Developer-jobs.html. 
 
-“Intermediate Software Developer Jobs.” Intermediate Full-Stack Software Developer (Remote), 2022, ca.indeed.com/Intermediate-Software-Developer-jobs. 
+“Intermediate Software Developer Jobs.” Intermediate Full-Stack Software Developer (Remote), 2022, www.ca.indeed.com/Intermediate-Software-Developer-jobs. 
 
 Malvik, Callie. “What Does a Software Developer Do? A Deep Dive into the Career.” Rasmussen University, 4 May 2020, www.rasmussen.edu/degrees/technology/blog/what-does-software-developer-do/. 
 
-Rehan, Radowan Nakif. “Black Flat Screen Computer Montior.” Unsplash, 13 Jan. 2021, unsplash.com/photos/cYyqhdbJ9TI. 
+Rehan, Radowan Nakif. “Black Flat Screen Computer Montior.” Unsplash, 13 Jan. 2021, www.unsplash.com/photos/cYyqhdbJ9TI. 
 
-Sonmez, John. “Technical Skills as a Software Developer.” Simple Programmer, 18 July 2016, simpleprogrammer.com/technical-skills-software-developer/. 
+Sonmez, John. “Technical Skills as a Software Developer.” Simple Programmer, 18 July 2016, www.simpleprogrammer.com/technical-skills-software-developer/. 
 
-University of Toronto. “Computer Engineering.” Future Students. University of Toronto, 24 July 2019, future.utoronto.ca/undergraduate-programs/computer-engineering/. 
+University of Toronto. “Computer Engineering.” Future Students. University of Toronto, 24 July 2019, www.future.utoronto.ca/undergraduate-programs/computer-engineering/. 
 
-University of Toronto. “Electrical &amp; Computer Engineering.” Future Engineering Undergraduates, 26 Sept. 2022, discover.engineering.utoronto.ca/programs/engineering-programs/electrical-computer-engineering/. 
+University of Toronto. “Electrical &amp; Computer Engineering.” Future Engineering Undergraduates, 26 Sept. 2022, www.discover.engineering.utoronto.ca/programs/engineering-programs/electrical-computer-engineering/. 
 
 
 
