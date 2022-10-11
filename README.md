@@ -65,7 +65,7 @@ During your first year in computer engineering, you will study many different th
 - 600 hours of practical work experience
 ### Length of Degree
 A computer engineering degree at the University of Toronto takes four years to complete.
-### Experiential Learning
+## Experiential Learning
 There are many ways that could attain valuable experience that is not through traditional school.
 
 - Internships: [**Professional Experience Year Co-op (PEY Co-op)**](https://engineeringcareers.utoronto.ca/work-experience-programs/professional-experience-year-co-op-program-pey-co-op)
